@@ -4,13 +4,28 @@
 
 This is a draft program. Please follow this page for updates.
 
+**All lectures in Room 005, main SISSA building**
+
 ## July 8-11
 
-Lecturers: Alessandro Laio (SISSA) and Giovanni Bussi (SISSA)
+Lecturers: Giovanni Bussi (SISSA), Alessandro Laio (SISSA), Olivier Languin-Cattoën (SISSA), and Cristian Micheletti (SISSA)
 
-- introduction to molecular dynamics (9-13, everyday)
-- hands on (14-18, everyday)
-- additional seminars to be planned
+| Day | Time | Topic | Lecturer |
+|-----|------|-------|----------|
+| Monday 8/7  |  9:00-10:30 | Introduction to Python | Olivier Languin-Cattoën |
+|             | 11:00-12:30 | Ensembles | Cristian Micheletti |
+|             | 14:00-18:00 | Lab - Python | TBA |
+| Tuesday 9/7 |  9:00-10:30 | Force fields | Olivier Languin-Cattoën |
+|             | 11:00-12:30 | Integrators | Giovanni Bussi |
+|             | 14:00-18:00 | Lab - Simulations with simpleMD | TBA |
+| Wednesday 10/7 | 9:00-10:30 | Introduction to Monte Carlo | Olivier Languin-Cattoën |
+|            |  11:00-12:30 | Thermostats | Giovanni Bussi |
+|            | 14:00-15:00 | Seminar | TBA |
+|            | 15:00-18:00 | Lab - TBA | TBA |
+| Thursday 11/7 |  9:00-10:30 | Barostats | Giovanni Bussi |
+|            | 11:00-12:30 | Error analysis| Alessandro Laio |
+|            | 14:00-18:00 | Lab - TBA | TBA |
+
 
 ## July 12 and 15-16
 
