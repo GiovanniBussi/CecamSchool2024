@@ -17,7 +17,7 @@ Lecturers: Giovanni Bussi (SISSA), Alessandro Laio (SISSA), Olivier Languin-Catt
 |             | 14:00-18:00 | Lab - Python | TBA |
 | Tuesday 9/7 |  9:00-10:30 | Force fields | Olivier Languin-Cattoën |
 |             | 11:00-12:30 | Integrators | Giovanni Bussi |
-|             | 14:00-18:00 | Lab - Simulations with simpleMD and visualization of results | TBA |
+|             | 14:00-18:00 | Lab - Simulations with simpleMD and visualization of results | Giovanni Bussi |
 | Wednesday 10/7 | 9:00-10:30 | Introduction to Monte Carlo | Olivier Languin-Cattoën |
 |            |  11:00-12:30 | Thermostats | Giovanni Bussi |
 |            | 14:00-15:00 | Seminar | TBA |
