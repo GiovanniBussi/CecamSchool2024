@@ -40,7 +40,16 @@ Lecturers: Giuseppe Brancato (SNS) and Tommaso Giovannini (SNS)
 
 Lecturers: Alessandro Laio (SISSA) and Michele Ceriotti (EPFL)
 
-- introduction to machine-learning potentials
-- hands on (14-18, everyday)
-- on Thu 18, at 14: seminar by Michele Ceriotti
+| Day | Time | Topic | Lecturer |
+|-----|------|-------|----------|
+| Wednesday 17/7  |  9:00-10:30 | Linear methods - PCA, linear regression, ridge regularization and overfitting | Michele Ceriotti |
+|                 | 11:00-12:30 | Introduction to neural networks | Alessandro Laio |
+|                 | 14:00-18:00 | Lab - Predicting the elastic properties of materials | TBA |
+| Thursday 18/7   | 9:00-10:30 | Representations for chemistry: internal coordinates, symmetry functions, density expansions | Michele Ceriotti |
+|                 |  11:00-12:30 | Introduction to neural networks | Alessandro Laio |
+|                 | 14:00-15:00 | Seminar | Michele Ceriotti |
+|                 | 15:00-18:00 | Lab - Invariance and equivariance of molecular descriptors. PCA maps of a phase transition | TBA |
+| Friday 19/7     |  9:00-10:30 | Interatomic potentials: non-linear regression, gradient descent, training on forces | Michele Ceriotti |
+|                 | 11:00-12:30 | TBA| TBA |
+|                 | 14:00-18:00 | Lab - Fitting a potential for the zundel cation and running MD with it | TBA |
 
