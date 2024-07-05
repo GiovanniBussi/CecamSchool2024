@@ -35,7 +35,7 @@ Lecturers: Giuseppe Brancato (SNS) and Tommaso Giovannini (SNS)
 - introduction to quantum chemistry (9-13, every day)
 - hands on (14-18, everyday)
 - on Fri 12, at 14: seminar by Giuseppe Brancato
-- on Tue 16, at 14: seminar by Tommaso Giovannini
+- on Mon 15, at 14: seminar by Tommaso Giovannini
 
 ## July 17-19
 
