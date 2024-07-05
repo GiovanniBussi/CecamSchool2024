@@ -18,11 +18,11 @@ Tutors: Ivan Gilardoni (SISSA), Elisa Posani (SISSA), Giuseppe Sacco (SISSA), an
 |             | 14:00-18:00 | Lab - Python | Giuseppe Sacco and Samuel Tamagnone |
 | Tuesday 9/7 |  9:00-10:30 | Force fields | Olivier Languin-Cattoën |
 |             | 11:00-12:30 | Integrators | Giovanni Bussi|
-|             | 14:00-18:00 | Lab - Simulations with simpleMD and visualization of results | Samuel Tamagnone, Elisa Posani, and Giovanni Bussi |
+|            | 14:00-15:00 | Seminar | Angelo Rosa (SISSA) |
+|             | 15:00-18:00 | Lab - Simulations with simpleMD and visualization of results | Samuel Tamagnone, Elisa Posani, and Giovanni Bussi |
 | Wednesday 10/7 | 9:00-10:30 | Introduction to Monte Carlo | Olivier Languin-Cattoën |
 |            |  11:00-12:30 | Thermostats | Giovanni Bussi |
-|            | 14:00-15:00 | Seminar | TBA |
-|            | 15:00-18:00 | Lab - Melting and histeresis | Elisa Posani and Ivan Gilardoni |
+|            | 14:00-18:00 | Lab - Melting and histeresis | Elisa Posani and Ivan Gilardoni |
 | Thursday 11/7 |  9:00-10:30 | Barostats | Giovanni Bussi |
 |            | 11:00-12:30 | Error analysis| Alessandro Laio |
 |            | 14:00-18:00 | Lab - Calculation of statistical errors | Ivan Gilardoni e Giuseppe Sacco |
