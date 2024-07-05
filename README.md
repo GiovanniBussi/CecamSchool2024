@@ -8,7 +8,7 @@ This is a draft program. Please follow this page for updates.
 
 ## July 8-11
 
-Lecturers: Giovanni Bussi (SISSA), Alessandro Laio (SISSA), Olivier Languin-Cattoën (SISSA), and Cristian Micheletti (SISSA)
+Lecturers: Giovanni Bussi (SISSA), Alessandro Laio (SISSA), Olivier Languin-Cattoën (SISSA), Tomas Silva (SISSA), and Cristian Micheletti (SISSA)
 Tutors: Ivan Gilardoni (SISSA), Elisa Posani (SISSA), Giuseppe Sacco (SISSA), and Samuel Tamagnone (SISSA).
 
 | Day | Time | Topic | Lecturer |
@@ -16,7 +16,7 @@ Tutors: Ivan Gilardoni (SISSA), Elisa Posani (SISSA), Giuseppe Sacco (SISSA), an
 | Monday 8/7  |  9:00-10:30 | Introduction to Python | Olivier Languin-Cattoën |
 |             | 11:00-12:30 | Ensembles | Cristian Micheletti |
 |             | 14:00-18:00 | Lab - Python | Giuseppe Sacco and Samuel Tamagnone |
-| Tuesday 9/7 |  9:00-10:30 | Force fields | Olivier Languin-Cattoën |
+| Tuesday 9/7 |  9:00-10:30 | Force fields | Tomas Silva |
 |             | 11:00-12:30 | Integrators | Giovanni Bussi|
 |            | 14:00-15:00 | Seminar | Angelo Rosa (SISSA) |
 |             | 15:00-18:00 | Lab - Simulations with simpleMD and visualization of results | Samuel Tamagnone, Elisa Posani, and Giovanni Bussi |
@@ -32,10 +32,20 @@ Tutors: Ivan Gilardoni (SISSA), Elisa Posani (SISSA), Giuseppe Sacco (SISSA), an
 
 Lecturers: Giuseppe Brancato (SNS) and Tommaso Giovannini (SNS)
 
-- introduction to quantum chemistry (9-13, every day)
-- hands on (14-18, everyday)
-- on Fri 12, at 14: seminar by Giuseppe Brancato
-- on Mon 15, at 14: seminar by Tommaso Giovannini
+| Day | Time | Topic | Lecturer |
+|-----|------|-------|----------|
+| Friday 12/7  |  9:00-10:30 | Introduction to Quantum Chemistry | Tommaso Giovannini |
+|             | 11:00-12:30 | Electronic structure problem: Hartree-Fock part I | Tommaso Giovannini |
+|            | 14:00-15:00 | Seminar: Enhancing the Accuracy of DFT Calculations and Ab Initio Molecular Dynamics by Fine Tuning the Dispersion Interactions | Giuseppe Brancato |
+|             | 15:00-18:00 | Lab - Calculations on small molecules: water and Zundel ion | Luca Grisanti, Tomas Silva, and Salvatore di Marco |
+| Monday 15/7 |  9:00-10:30 | Electronic structure problem: Hartree-Fock part II | Tommaso Giovannini |
+|             | 11:00-12:30 | Multi-scale methods | Tommaso Giovannini|
+|            | 14:00-15:00 | Seminar: Multiscale methods for computational spectroscopy | Tommaso Giovannini |
+|             | 15:00-18:00 | Lab - Effect of solvation on small organic molecules | Luca Grisanti, Tomas Silva, and Salvatore di Marco |
+| Tuesday 16/7 | 9:00-10:30 | Density Functional Theory | Giuseppe Brancato |
+|            |  11:00-12:30 | Introduction to molecular properties | Giuseppe Brancato |
+|            | 14:00-18:00 | Lab - Normal modes and molecular properties | Luca Grisanti, Tomas Silva, and Salvatore di Marco |
+
 
 ## July 17-19
 
