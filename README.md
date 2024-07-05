@@ -18,7 +18,7 @@ Tutors: Ivan Gilardoni (SISSA), Elisa Posani (SISSA), Giuseppe Sacco (SISSA), an
 |             | 14:00-18:00 | Lab - Python | Giuseppe Sacco and Samuel Tamagnone |
 | Tuesday 9/7 |  9:00-10:30 | Force fields | Tomas Silva |
 |             | 11:00-12:30 | Integrators | Giovanni Bussi|
-|            | 14:00-15:00 | Seminar | Angelo Rosa (SISSA) |
+|            | 14:00-15:00 | Seminar (title TBA) | Angelo Rosa (SISSA) |
 |             | 15:00-18:00 | Lab - Simulations with simpleMD and visualization of results | Samuel Tamagnone, Elisa Posani, and Giovanni Bussi |
 | Wednesday 10/7 | 9:00-10:30 | Introduction to Monte Carlo | Olivier Languin-Cattoën |
 |            |  11:00-12:30 | Thermostats | Giovanni Bussi |
@@ -58,7 +58,7 @@ Lecturers: Alessandro Laio (SISSA) and Michele Ceriotti (EPFL)
 |                 | 14:00-18:00 | Lab - Predicting the elastic properties of materials | Davide Tisi |
 | Thursday 18/7   | 9:00-10:30 | Representations for chemistry: internal coordinates, symmetry functions, density expansions | Michele Ceriotti |
 |                 |  11:00-12:30 | Introduction to neural networks | Alessandro Laio |
-|                 | 14:00-15:00 | Seminar | Michele Ceriotti |
+|                 | 14:00-15:00 | Seminar (title TBA) | Michele Ceriotti |
 |                 | 15:00-18:00 | Lab - Invariance and equivariance of molecular descriptors. PCA maps of a phase transition | Davide Tisi |
 | Friday 19/7     |  9:00-10:30 | Equivariant regression | Michele Ceriotti |
 |                 | 11:00-12:30 | TBA| TBA |
