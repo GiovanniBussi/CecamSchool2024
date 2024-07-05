@@ -55,12 +55,12 @@ Lecturers: Alessandro Laio (SISSA) and Michele Ceriotti (EPFL)
 |-----|------|-------|----------|
 | Wednesday 17/7  |  9:00-10:30 | Linear methods - PCA, linear regression, ridge regularization and overfitting | Michele Ceriotti |
 |                 | 11:00-12:30 | Introduction to neural networks | Alessandro Laio |
-|                 | 14:00-18:00 | Lab - Predicting the elastic properties of materials | TBA |
+|                 | 14:00-18:00 | Lab - Predicting the elastic properties of materials | Davide Tisi |
 | Thursday 18/7   | 9:00-10:30 | Representations for chemistry: internal coordinates, symmetry functions, density expansions | Michele Ceriotti |
 |                 |  11:00-12:30 | Introduction to neural networks | Alessandro Laio |
 |                 | 14:00-15:00 | Seminar | Michele Ceriotti |
-|                 | 15:00-18:00 | Lab - Invariance and equivariance of molecular descriptors. PCA maps of a phase transition | TBA |
-| Friday 19/7     |  9:00-10:30 | Interatomic potentials: non-linear regression, gradient descent, training on forces | Michele Ceriotti |
+|                 | 15:00-18:00 | Lab - Invariance and equivariance of molecular descriptors. PCA maps of a phase transition | Davide Tisi |
+| Friday 19/7     |  9:00-10:30 | Equivariant regression | Michele Ceriotti |
 |                 | 11:00-12:30 | TBA| TBA |
-|                 | 14:00-18:00 | Lab - Fitting a potential for the zundel cation and running MD with it | TBA |
+|                 | 14:00-18:00 | Lab - Building an equivariant linear model for the dipole moment of the zundel cation | Davide Tisi |
 
