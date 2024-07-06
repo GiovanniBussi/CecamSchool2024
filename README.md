@@ -18,7 +18,7 @@ Tutors: Ivan Gilardoni (SISSA), Elisa Posani (SISSA), Giuseppe Sacco (SISSA), an
 |             | 14:00-18:00 | Lab - Python | Giuseppe Sacco and Samuel Tamagnone |
 | Tuesday 9/7 |  9:00-10:30 | Force fields | Tomas Silva |
 |             | 11:00-12:30 | Integrators | Giovanni Bussi|
-|            | 14:00-15:00 | Seminar (title TBA) | Angelo Rosa (SISSA) |
+|            | 14:00-15:00 | Seminar: Polymer physics of the genome | Angelo Rosa (SISSA) |
 |             | 15:00-18:00 | Lab - Simulations with simpleMD and visualization of results | Samuel Tamagnone, Elisa Posani, and Giovanni Bussi |
 | Wednesday 10/7 | 9:00-10:30 | Introduction to Monte Carlo | Olivier Languin-Cattoën |
 |            |  11:00-12:30 | Thermostats | Giovanni Bussi |
