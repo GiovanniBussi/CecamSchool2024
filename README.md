@@ -61,6 +61,6 @@ Lecturers: Alessandro Laio (SISSA) and Michele Ceriotti (EPFL)
 |                 | 14:00-15:00 | Seminar (title TBA) | Michele Ceriotti |
 |                 | 15:00-18:00 | Lab - Invariance and equivariance of molecular descriptors. PCA maps of a phase transition | Davide Tisi |
 | Friday 19/7     |  9:00-10:30 | Equivariant regression | Michele Ceriotti |
-|                 | 11:00-12:30 | TBA| TBA |
+|                 | 11:00-12:30 | A brief history of neural network interatomic potentials| Stefano De Gironcoli |
 |                 | 14:00-18:00 | Lab - Building an equivariant linear model for the dipole moment of the zundel cation | Davide Tisi |
 
