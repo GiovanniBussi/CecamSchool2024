@@ -36,7 +36,7 @@ Lecturers: Giuseppe Brancato (SNS) and Tommaso Giovannini (SNS)
 |-----|------|-------|----------|
 | Friday 12/7  |  9:00-10:30 | Introduction to Quantum Chemistry | Tommaso Giovannini |
 |             | 11:00-12:30 | Electronic structure problem: Hartree-Fock part I | Tommaso Giovannini |
-|            | 14:00-15:00 | Seminar: Enhancing the Accuracy of DFT Calculations and Ab Initio Molecular Dynamics by Fine Tuning the Dispersion Interactions | Giuseppe Brancato |
+|            | 14:00-15:00 | Seminar: [Enhancing the Accuracy of DFT Calculations and Ab Initio Molecular Dynamics by Fine Tuning the Dispersion Interactions](./brancato.md) | Giuseppe Brancato |
 |             | 15:00-18:00 | Lab - Calculations on small molecules: water and Zundel ion | Luca Grisanti, Tomas Silva, and Salvatore di Marco |
 | Monday 15/7 |  9:00-10:30 | Electronic structure problem: Hartree-Fock part II | Tommaso Giovannini |
 |             | 11:00-12:30 | Multi-scale methods | Tommaso Giovannini|
