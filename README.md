@@ -40,7 +40,7 @@ Lecturers: Giuseppe Brancato (SNS) and Tommaso Giovannini (SNS)
 |             | 15:00-18:00 | Lab - Calculations on small molecules: water and Zundel ion | Luca Grisanti, Tomas Silva, and Salvatore di Marco |
 | Monday 15/7 |  9:00-10:30 | Electronic structure problem: Hartree-Fock part II | Tommaso Giovannini |
 |             | 11:00-12:30 | Multi-scale methods | Tommaso Giovannini|
-|            | 14:00-15:00 | Seminar: Multiscale methods for computational spectroscopy | Tommaso Giovannini |
+|            | 14:00-15:00 | Seminar: [Multiscale methods for computational spectroscopy](./abstract.pdf) | Tommaso Giovannini |
 |             | 15:00-18:00 | Lab - Effect of solvation on small organic molecules | Luca Grisanti, Tomas Silva, and Salvatore di Marco |
 | Tuesday 16/7 | 9:00-10:30 | Density Functional Theory | Giuseppe Brancato |
 |            |  11:00-12:30 | Introduction to molecular properties | Giuseppe Brancato |
